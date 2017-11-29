@@ -10,7 +10,7 @@ https://angular.io/tutorial
 
 ## Environment setup
 * IDE : [Visual Studio Code](https://code.visualstudio.com/)
-* Deploy app on GitHub pages click -> [here](https://github.com/BaiGanio/Tour-of-Heroes4/blob/dev/utils/Angular%20to%20GitHub.txt)
+* Deploy app on GitHub pages click -> [here](https://github.com/BaiGanio/Tour-of-Heroes/blob/master/utils/Angular%20to%20GitHub.txt)
 
 Run `ng serve -o` to automaticaly run a dev server and for oppening up the app automaticaly in your default browser. 
 Otherwise you can navigate to `http://localhost:4200/`. 
