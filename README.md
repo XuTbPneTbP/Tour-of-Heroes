@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Site & Workshop
 
-https://baiganio.github.io/Tour-of-Heroes4/
+https://baiganio.github.io/Tour-of-Heroes/
 
 https://angular.io/tutorial
 
